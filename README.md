@@ -1,4 +1,4 @@
-# SoftwareProject -team Project (five people in a team)
+# SoftwareProject -team Project (five team members)
 The system is a website application that allow users to navigate through different recipes depending on the category of food they wish to make. There will be different categories for different types of meals: breakfast, lunch, snacks, main meals and drinks.  Once here the user navigates through the sub categories and chooses what type they would like. For example, in main courses they could choose beef or vegetarian etc. Then once the user is here they can view different recipes on the site based on top rated. Once they click on the desired meal, there will be ingredients, cooking instructions, price and for some recipes a video tutorial showing how to make the meal.  The system also allows users to login to its database and add their own recipes and up vote the meals they like and add comments if they wish. It also contains a search bar that allows users to quickly search for a desired dish.
 I was responsible for creating all screens of our Web Application (whole design part of project)
 
